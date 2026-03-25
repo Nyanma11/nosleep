@@ -11,6 +11,7 @@ nosleepは、Windowsノートパソコンの画面を閉じてもスリープし
 1. アプリの起動
 
     アプリを起動するとタスクトレイにnosleepのアイコンが常駐します。
+
 ![s-プレゼンテーション1](https://github.com/user-attachments/assets/86792d5c-9e21-40f6-a82c-a8adafabb000)
 
 2. スリープ防止モードの切り替え
