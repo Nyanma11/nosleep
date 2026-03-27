@@ -4,7 +4,7 @@ nosleepは、Windowsノートパソコンの画面を閉じてもスリープし
 
 ## インストール
 
-＜こちらのページ＞(https://github.com/Nyanma11/nosleep/releases) からzipファイルをダウンロード後、解凍してお使いください。
+[こちらのページ](https://github.com/Nyanma11/nosleep/releases)からzipファイルをダウンロード後、解凍してお使いください。
 
 ## 使い方
 
